@@ -2,123 +2,112 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<title>酷课-视频教程目录</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="description" content="Description">
-	<meta name="viewport"
-		content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta charset="UTF-8">
+  <title>酷课-视频教程目录</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-	<style>
-		.loading {
-			width: 50px;
-			height: 50px;
-			display: inline-block;
-			margin: 0 auto;
-			border: 5px solid #ddd;
-			border-left-color: #FFB5BF;
-			border-radius: 50%;
-			animation: loading-animation 1.2s linear infinite;
-		}
 
-		@keyframes loading-animation {
-			0% {
-				transform: rotate(0deg);
-			}
+  <style>
+    .sidebar ul li.active>a {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  </style>
 
-			100% {
-				transform: rotate(360deg);
-			}
-		}
-
-		.sidebar ul li.active>a {
-			background-color: rgba(0, 0, 0, 0.05);
-		}
-	</style>
 </head>
 
 <body>
-  <div id="app" class="loading"></div>
-  <div id="gitalk-container"></div>
+  <div id="app">
+
+  </div>
+
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-	<script>
-		window.$docsify = {
-			name: '视频教程目录',//文档标题，会显示在侧边栏顶部。
-			repo: 'https://coolcourse.github.io/coolcourse',//页面右上角渲染一个 GitHub Corner 挂件
-			auto2top: true,
-			nameLink: './#/README',
-			loadSidebar: true,
-			loadNavbar: true,
-			coverpage: true,
-			subMaxLevel: 2,
-			maxLevel: 4,//单页面最大标题层级
+  <script>
+    window.$docsify = {
+      name: '视频教程目录', //文档标题，会显示在侧边栏顶部。
+      repo: 'https://coolcourse.github.io/coolcourse', //页面右上角渲染一个 GitHub Corner 挂件
+      auto2top: true,
+      nameLink: './#/README',
+      loadSidebar: true,
+      loadNavbar: true,
+      coverpage: true,
+      subMaxLevel: 2,
+      maxLevel: 4, //单页面最大标题层级
       executeScript: true,
 
-			alias: {
-				'/.*/_sidebar.md': '/_sidebar.md',
-				'/.*/_navbar.md': '/_navbar.md'
-			},
-
-			// 完整配置参数
-			search: {
-				maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-				paths: 'auto', // or 'auto'
-				placeholder: 'Type to search',
-
-				// 支持本地化
-				placeholder: {
-					'/': '搜索'
-				},
-
-				// 支持本地化
-				noData: {
-					'/': '找不到结果'
-				},
-
-				// 搜索标题的最大程级, 1 - 6
-				depth: 2
-			},
-
-			notFoundPage: {
-				'/': '_404.md'
-			},
-
-			// docsify-copy-code (custom)
-			copyCode: {
-				buttonText: '复制到粘贴板',
-				errorText: '错误',
-				successText: '复制成功'
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
       },
 
-		}
+      // 完整配置参数
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto', // or 'auto'
+        placeholder: 'Type to search',
 
-		if (typeof navigator.serviceWorker !== 'undefined') {
-			navigator.serviceWorker.register('sw.js')
+        // 支持本地化
+        placeholder: {
+          '/': '搜索'
+        },
+
+        // 支持本地化
+        noData: {
+          '/': '找不到结果'
+        },
+
+        // 搜索标题的最大程级, 1 - 6
+        depth: 2
+      },
+
+      notFoundPage: {
+        '/': '_404.md'
+      },
+
+      // docsify-copy-code (custom)
+      copyCode: {
+        buttonText: '复制到粘贴板',
+        errorText: '错误',
+        successText: '复制成功'
+      },
+
+
+
     }
 
-    const gitalk = new Gitalk({
-    clientID: '815987340a475d3a1ba8',
-    clientSecret: 'fc2cadb47fa657f3ec0fc2764e0547d2e94101e0',
-    repo: 'coolcourse',
-    owner: 'coolcourse',
-    admin: ['coolcourse'],
-    // facebook-like distraction free mode
-    distractionFreeMode: false
-    })
-
-    gitalk.render('gitalk-container');
-
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
   </script>
 
-	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-	<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-	<script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
-	<script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
-	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-	<script src="//unpkg.com/docsify-copy-code"></script>
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script>
+    var gitalk = new Gitalk({
+      clientID: '815987340a475d3a1ba8',
+      clientSecret: 'fc2cadb47fa657f3ec0fc2764e0547d2e94101e0',
+      repo: 'coolcourse',
+      owner: 'coolcourse',
+      admin: ['coolcourse'],
+      title: location.hash.match(/#(.*?)([?]|$)/)[1],
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+    })
+    window.onhashchange = function (event) {
+      if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
+        location.reload()
+      }
+    }
+  </script>
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
 </body>
