@@ -3,7 +3,7 @@
   
     - [编程与开发](category/develop.md)
     - [职场提升](category/office.md)
-    - [机械设计](get-started/custom-navbar.md)
+    - [机械设计](category/mechanical.md)
   
   - 收录来源
   

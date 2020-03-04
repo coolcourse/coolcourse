@@ -1,0 +1,19 @@
+<svg width="53.2" height="20" viewBox="0 0 532 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="532" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="320" height="200" fill="#3C1" x="212"/>
+    <rect width="532" height="200" fill="url(#a)"/>
+  </g>
+  <g fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="220" fill="#000" opacity="0.25">微信</text>
+    <text x="257" y="138" textLength="220">微信</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNTgzMzEwMTcyNjE0IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjUgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjIyNTciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAwLjE5NTMxMjUiIGhlaWdodD0iMjAwIj48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwvc3R5bGU+PC9kZWZzPjxwYXRoIGQ9Ik0xMDI0LjE2IDY5NC44MTZjMC0xNDkuOTItMTQzLjEwNC0yNzEuMzkyLTMxOS41ODQtMjcxLjM5Mi0xNzYuNTc2IDAtMzE5LjY4IDEyMS41MDQtMzE5LjY4IDI3MS4zOTJTNTI4IDk2Ni4yMDggNzA0LjU3NiA5NjYuMjA4YzU1LjQ1NiAwIDEwNy42NDgtMTIuMDk2IDE1My4xODQtMzMuMjQ4bDEyNS45ODQgNTQuNTI4LTE0LjU5Mi0xNDAuNTQ0YzM0Ljc4NC00My4zOTIgNTUuMDQtOTUuODA4IDU1LjA0LTE1Mi4xMjh6TTU5Ni44MzIgNjIxLjI4Yy0yNS4xNTIgMC00NS40NzItMjAuMzUyLTQ1LjQ3Mi00NS40NzJzMjAuMzItNDUuNDcyIDQ1LjQ3Mi00NS40NzJjMjUuMTIgMCA0NS40NCAyMC4zODQgNDUuNDQgNDUuNDcycy0yMC4zODQgNDUuNDcyLTQ1LjQ0IDQ1LjQ3MnogbTIxNS4zOTIgMGMtMjUuMDU2IDAtNDUuNDQtMjAuMzUyLTQ1LjQ0LTQ1LjQ3MnMyMC4zODQtNDUuNDcyIDQ1LjQ0LTQ1LjQ3MmMyNS4xODQgMCA0NS41MzYgMjAuMzg0IDQ1LjUzNiA0NS40NzJzLTIwLjM1MiA0NS40NzItNDUuNTM2IDQ1LjQ3MnpNNzA0LjU3NiAzODcuNDg4YzQ5LjM3NiAwIDk2LjQxNiA4LjggMTM5LjI2NCAyNC42NCAwLjMyLTUuNzI4IDAuOTkyLTExLjIzMiAwLjk5Mi0xNi45OTIgMC0xOTguMDgtMTg5LjE1Mi0zNTguNjI0LTQyMi40MzItMzU4LjYyNEMxODkuMTg0IDM2LjUxMiAwLjAzMiAxOTcuMDI0IDAuMDMyIDM5NS4xMzZjMCA3NC40OTYgMjYuODE2IDE0My43NzYgNzIuNzA0IDIwMS4xMkw1My40NzIgNzgxLjkybDE2Ni40MzItNzIuMDk2YzQxLjIxNiAxOS4yIDg2Ljc4NCAzMi4xNiAxMzQuODggMzguNzg0LTMuNjE2LTE3LjUwNC01LjgyNC0zNS40MjQtNS44MjQtNTMuNzkyIDAuMDMyLTE2OS40NCAxNTkuNTUyLTMwNy4yOTYgMzU1LjYxNi0zMDcuMjk2eiBtLTEzOS44MDgtMjA5LjZjMzMuMTg0IDAgNjAgMjYuODggNjAgNjAgMCAzMy4xODQtMjYuODE2IDYwLjA2NC02MCA2MC4wNjRzLTYwLjAzMi0yNi44OC02MC4wMzItNjAuMDY0YzAtMzMuMTUyIDI2Ljg4LTYwIDYwLjAzMi02MHpNMjgwLjAzMiAyOTcuOTUyYy0zMy4xODQgMC02MC0yNi44OC02MC02MC4wNjQgMC0zMy4xNTIgMjYuODQ4LTYwIDYwLTYwIDMzLjE4NCAwIDYwLjAzMiAyNi44OCA2MC4wMzIgNjBzLTI2Ljg4IDYwLjA2NC02MC4wMzIgNjAuMDY0eiIgZmlsbD0iI2ZmZmZmZiIgcC1pZD0iMjI1OCI+PC9wYXRoPjwvc3ZnPg=="/>
+</svg>

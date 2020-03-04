@@ -8,6 +8,9 @@
 -  不加密
 -  可在电脑、平板、手机无限制观看
 
-[免费打赏](/guide/pay.md) 
-[开始阅读](/README) 
+![](assets/wechat.svg)
+![](assets/qq.svg)
+![](https://badgen.net/github/last-commit/coolcourse/coolcourse)
 
+[愿望清单](/guide/wish.md) 
+[开始阅读](/README) 
