@@ -1,4 +1,4 @@
-![logo](assets/icon.svg ':size=110')
+![logo](assets/img/icon.svg ':size=110')
 
 # 视频教程收录指南
 
@@ -8,8 +8,8 @@
 -  不加密
 -  可在电脑、平板、手机无限制观看
 
-![](assets/wechat.svg)
-![](assets/qq.svg)
+![](assets/img/wechat.svg)
+![](assets/img/qq.svg)
 ![](https://badgen.net/github/last-commit/coolcourse/coolcourse)
 
 [愿望清单](/guide/wish.md) 
