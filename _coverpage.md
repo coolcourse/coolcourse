@@ -1,8 +1,8 @@
 ![logo](assets/img/icon.svg ':size=110')
 
-# 视频教程收录指南
+# <font color=#333>视频教程目录</font>
 
->  网罗全网好教程，一个神奇的在线课程库！ 
+<!-- >  网罗全网好教程，一个神奇的在线课程库！  -->
 
 -  百度网盘分享（高速下载）
 -  不加密
@@ -12,5 +12,5 @@
 ![](assets/img/qq.svg)
 ![](https://badgen.net/github/last-commit/coolcourse/coolcourse)
 
-[愿望清单](/guide/wish.md) 
+[愿望清单](/help/wish.md) 
 [开始阅读](/README) 

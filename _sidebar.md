@@ -8,9 +8,9 @@
   - 收录来源
   
     - [网易云课堂](source/163.md)
-    - [慕课网](source/imooc.md)
+    - [慕课网<sup style="color:red">(包更新)<sup>](source/imooc.md)
     - [腾讯课堂](source/keqq.md)
-    - [宁皓网](source/ninghao.md)
+    - [宁皓网<sup style="color:red">(包更新)<sup>](source/ninghao.md)
     - [WordPress课堂](source/wordpresskt.md)
     - [其他](source/other.md)
 
@@ -20,7 +20,7 @@
     - [视频解密<sup style="color:red">(hot)<sup>](help/video.md)
     - [愿望清单](help/wish.md)
     - [免费打赏<sup style="color:lightgreen">(free)<sup>](help/pay.md)
-    - [QQ交流群<sup style="color:red">(vip)<sup>](help/qq.md)
+    - [百度网盘共享群<sup style="color:red">(vip)<sup>](help/qq.md)
 
 - **LINKS**
 - [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)

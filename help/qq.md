@@ -1,6 +1,3 @@
-# QQ交流群
+# 百度网盘共享群
 
-> An alert of type 'comment' using style 'callout' with default settings.
-
-SolidWorks交流群：695035978
-
+打赏后通过群主邀请可进入百度网盘VIP共享群，群内所有视频教程可在线观看，免费更新，永不失效，可转存自己的百度网盘或下载到本地电脑。
