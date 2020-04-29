@@ -23,7 +23,7 @@ WordPress课堂：https://www.wordpresskt.com/
 
 百度网盘共享群打赏50元入群，不加密，可转存，支持所有设备播放观看!
 
-![](../assets/wxpay.png) <img src="/../assets/baidu.png" width= "260" height="260">
+![](../assets/wxpay.png) <img src="https://coolcourse.github.io/coolcourse/assets/baidu.png" width= "260" height="260">
 
 <!-- tabs:end -->
 
