@@ -19,7 +19,6 @@
     - [课程代下](help/download.md)
     - [视频解密<sup style="color:red">(hot)<sup>](help/video.md)
     - [愿望清单](help/wish.md)
-    - [免费打赏<sup style="color:lightgreen">(free)<sup>](help/pay.md)
     - [百度网盘共享群<sup style="color:red">(vip)<sup>](help/qq.md)
 
 - **LINKS**

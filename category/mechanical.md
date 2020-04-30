@@ -7,11 +7,6 @@
 
 ?> 本课程已经全部解密，可以在任何设备上观看，送30G设计资料（包括模型库，标准件库...）[详情介绍](category/SolidWorks2020.md)
 
-
-<!-- tabs:start -->
-
-#### ** 课程列表 **
-
 <mark>总价值：400+</mark>
 
 第1套-SolidWorks草图和中级建模设计
@@ -37,16 +32,3 @@
 第11套-SolidWorks Routing管道设计教程
 
 第12套-SolidWorks Simulation静应力分析
-
-#### ** 赠送素材 **
-
-加入百度网盘共享交流群免费获取。
-
-#### ** 打赏入群 **
-
-百度网盘共享群打赏50元入群，不加密，可转存，支持所有设备播放观看!
-
-![](../assets/wxpay.png) <img src="https://coolcourse.github.io/coolcourse/assets/baidu.png" width= "260" height="260">
-<!-- tabs:end -->
-
-
