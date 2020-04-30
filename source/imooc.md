@@ -1,11 +1,32 @@
 # 目录
 
-<!-- tabs:start -->
+## 就业班
+<mark>总价值：2.3w+</mark>
 
-#### ** 实战课程 **
+前端工程师（零基础）
+
+Java工程师（零基础）
+
+Python工程师（零基础）
+
+Android工程师（零基础）
+
+PHP工程师就业班（零基础）
+
+Java架构师（进阶）
+
+大前端（进阶）
+
+Java全栈（进阶）
+
+##  实战课程
 
 <mark>总价值：16w+</mark>
 
+<details>
+  <summary> 点击展开 :point_left:</summary> 
+
+```
 2020 重学C++ 重构你的C++知识体系 				
 2小时快速上手Spring Boot 红包程序 尽显极客浪漫Style 				
 360大牛带你横扫PHP职场 全面解读PHP面试 				
@@ -318,33 +339,15 @@ zookeeper源码分析
 抓紧面试前的宝贵时间 快速搞定前端JavaScript面试 				
 专为程序员设计的统计课 彻底学会统计分析 				
 组件化封装思想实战Android App 				
-最容易上手的Vue .入门实战教程 				
+最容易上手的Vue .入门实战教程
+```
+
+</details>
+
+			
 
 
-#### ** 就业班 **
 
-<mark>总价值：2.3w+</mark>
 
-前端工程师（零基础）
 
-Java工程师（零基础）
 
-Python工程师（零基础）
-
-Android工程师（零基础）
-
-PHP工程师就业班（零基础）
-
-Java架构师（进阶）
-
-大前端（进阶）
-
-Java全栈（进阶）
-
-#### ** 打赏入群 **
-
-百度网盘共享群打赏50元入群，不加密，可转存，支持所有设备播放观看!
-
-![](../assets/wxpay.png) <img src="https://coolcourse.github.io/coolcourse/assets/baidu.png" width= "260" height="260">
-
-<!-- tabs:end -->

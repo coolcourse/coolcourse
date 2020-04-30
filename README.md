@@ -1,30 +1,33 @@
 
-# 指南
-
 !> 免责声明：请大家学习之后24小时内删除，切勿传播，由于传播导致的版权纠纷与本人无关！
+<!-- panels:start -->
 
- 视频教程按照课程分类和收录来源划分，课程分类经过挑选，均是各个行业精品教程，收录至各大在线教育网站，视频免费共享学习，提供百度网盘共享群服务，可在线观看和根据需要转存，永不失效！
+<!-- div:title-panel -->
 
- 注：选择需要分类，打赏50元后，通过群主邀请进入所选分类百度网盘VIP共享群，支持在线观看，可转存到自己的百度网盘。
+## 课程分类
 
-# 代下载服务
+<!-- div:left-panel -->
 
-?> 需提供已经购买此在线课程的账号，服务费为此课程价格的 10%，完成后通过百度网盘查收。
+### 按来源
 
-由于在线课程很多具有有效期或者视频教程发布者下架会造成大家无法再次复习，普通用户又无法通过常规方法下载到加密视频并保存，此处提供**代下载服务**，好教程值得收藏，永久保存到自己本地电脑硬盘中。
+> - [慕课网 <sup style="color:red">(价值：16w+)<sup>](source/imooc.md)
+> - [网易云课堂](source/163.md)
+> - [腾讯课堂](source/keqq.md)
+> - [宁皓网 <sup style="color:red">(价值：599/年)<sup>](source/keqq.md)
+> - [WordPress课堂 <sup style="color:red">(价值：1500+)<sup>](https://www.wordpresskt.com/)
 
-可提供但不局限于如下网站代下载服务：
+<!-- div:right-panel -->
 
-- [网易云课堂](https://study.163.com/)
-- [慕课网](https://www.imooc.com/)
-- [腾讯课堂](https://ke.qq.com/) 
-- [WordPress课堂](https://www.wordpresskt.com/)
-- [更多...](/guide/download.md)
+### 按专业
 
-# 视频解密
+> - [机械设计](category/mechanical.md) 
 
-可对金盾、金狮、飞星、pbb、超时代，暴风雨、大黄蜂，EV，海海等加密视频进行解密处理，提取源视频！
-
-如需要，请通过QQ咨询。
+<!-- panels:end -->
 
 
+:point_up:点击分类进入目录，可查看详细课程列表。
+## 网盘共享群
+
+!> **50** 元进入百度网盘共享群，在线更新，永不失效！
+
+<img src="https://coolcourse.github.io/coolcourse/assets/baidu.png" width= "260" height="260">
